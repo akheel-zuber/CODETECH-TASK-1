@@ -58,7 +58,7 @@ The primary objective of this project is to develop an intuitive and interactive
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/bmi-calculator.git
+    git clone https://github.com/akheel-zuber/CODETECH-TASK-1.git
     cd bmi-calculator
     ```
 
