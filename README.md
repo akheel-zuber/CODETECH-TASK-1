@@ -1,9 +1,9 @@
 # CODETECHITINTERSHIP-TASK-1
-### NAME : SRINIVAS POTHARAJU
+### NAME : MOHAMMAD ABDUL AKHEEL ZUBER
 ### COMPANY :CODETECH IT SOLUTIONS
-### ID:CT08DS3454
+### ID:CT08DS9542
 ### DOMAIN :MACHINE LEARNING
-### DURATION : JULY TO AUGUST 2024
+### DURATION : OCTOBER TO NOVEMBER 2024
 ### MENTOR : Neela Santhosh Kumar 
 # BMI Calculator
 
@@ -101,5 +101,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Feel free to modify this README file to better fit your project's needs.
 
